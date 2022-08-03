@@ -17,7 +17,7 @@
 ##
 
 <div> 
-  <a href ="https://api.whatsapp.com/send?phone=5553984617907&text=Ol%C3%A1%20me%20chamo%20Gabriel%2C%20como%20posso%20te%20ajudar%3F%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
+  <a href ="https://api.whatsapp.com/send?phone=5553984619707&text=Ol%C3%A1%20me%20chamo%20Gabriel%2C%20como%20posso%20te%20ajudar%3F%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
   <a href="https://www.instagram.com/gabriel.schwanke/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.schwanke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-schwanke-4a2297235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
