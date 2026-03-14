@@ -1,4 +1,4 @@
-### Olá, me chamo Gabriel Schwanke
+### Hello, my name is Gabriel Schwanke.
 
 <div align="center">
   <a href="https://github.com/gabrielschwanke">
