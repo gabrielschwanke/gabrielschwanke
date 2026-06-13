@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  ⚡ Full Stack Developer | Software Engineer 🚀
+  ⚡ Fronend Developer
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções **web modernas, eficientes e escaláveis**. Gosto de transformar ideias em código e estou sempre em busca de novos desafios.
 
