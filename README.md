@@ -1,6 +1,6 @@
 <!-- Banner Superior -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=180&section=header&text=Gabriel%20Schwanke&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=180&section=header&text=Gabriel%20Schwanke&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 </div>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 ## About Me
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções **web modernas, eficientes e escaláveis**. Gosto de transformar ideias em código e estou sempre em busca de novos desafios.
+I'm a software developer passionate about technology, focused on building modern, efficient, and scalable web solutions. I enjoy turning ideas into code and continuously challenging myself to learn and grow.
 
-- 🌱 Atualmente aprimorando minhas habilidades em **Full Stack Development**
-- 💼 **Cargo:** Desenvolvedor de Software  
-- 🚀 Apaixonado por **boas práticas de código** e **arquitetura limpa**
-- 📫 Como me encontrar: **contato.schwanke@gmail.com**
-- ⚡ Curiosidade: Sempre disposto a aprender uma nova stack!
+- 🌱 Currently improving my skills in Full-Stack Development  
+- 🚀 Passionate about clean code, best practices, and software architecture
+- 📫 Reach me at: gabriellschwanke@gmail.com
+- ⚡ Fun fact: Always eager to learn a new technology stack!
+- 💼 Role: Frontend Developer
 
 ---
 
