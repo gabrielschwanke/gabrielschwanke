@@ -3,10 +3,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=180&section=header&text=Gabriel%20Schwanke&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 </div>
 
-<h1 align="center">
-  ⚡ Fronend Developer
-</h1>
-
 <p align="center">
   <a href="https://github.com/gabrielschwanke">
     <img src="https://komarev.com/ghpvc/?username=gabrielschwanke&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="visitors"/>
