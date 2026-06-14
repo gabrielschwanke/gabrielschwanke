@@ -41,8 +41,6 @@ I'm a software developer passionate about technology, focused on building modern
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55" style="filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
 </p>
 
 ### 🚀 Studying
@@ -77,14 +75,11 @@ I'm a software developer passionate about technology, focused on building modern
   <a href="https://www.linkedin.com/in/gabriel-schwanke-4a2297235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:contato.schwanke@gmail.com">
+  <a href="mailto:gabriellschwanke@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=5553984619707&text=Ol%C3%A1%20me%20chamo%20Gabriel%2C%20como%20posso%20te%20ajudar%3F%20" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/gabriel.schwanke/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
