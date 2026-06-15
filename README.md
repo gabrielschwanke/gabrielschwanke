@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a software developer passionate about technology, focused on building modern, efficient, and scalable web solutions. I enjoy turning ideas into code and continuously challenging myself to learn and grow.
+I'm a frontend developer passionate about technology, focused on building modern, efficient, and scalable web solutions. I enjoy turning ideas into code and continuously challenging myself to learn and grow.
 
 - 🌱 Currently improving my skills in Full-Stack Development  
 - 🚀 Passionate about clean code, best practices, and software architecture
